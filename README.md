@@ -1,4 +1,4 @@
-# sophon
+# Sophon
 A Simple Neural Network Framework
 
 最近一段时间在学习机器学习，学习过程中也自己实现了一个简单的深度学习框架。
